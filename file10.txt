@@ -1,2 +1,2 @@
 hello world
-this is git training
+this is git training we are learning git
